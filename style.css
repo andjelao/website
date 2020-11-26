@@ -1,0 +1,38 @@
+body {
+    background-image : url("https://images.pexels.com/photos/2008145/pexels-photo-2008145.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}   
+button {
+    background-color:pink;
+    height: 60px;
+    width: 90px;
+    display: inline;
+    margin-left: 10%;
+}
+div.lista{
+    background-color : white;
+    border: black solid 1px;
+    margin-top: 2%;
+    font-size: 18px;
+}
+form {
+    display: inline;
+}
+a {
+    text-decoration: none;
+}
+img {
+    margin-top: 2%;
+    width : 540px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
